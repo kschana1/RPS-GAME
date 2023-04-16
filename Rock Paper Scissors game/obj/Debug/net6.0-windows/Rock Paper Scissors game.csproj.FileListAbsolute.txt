@@ -1,0 +1,17 @@
+C:\Users\batma\source\repos\Rock Paper Scissors game\bin\Debug\net6.0-windows\Rock Paper Scissors game.exe
+C:\Users\batma\source\repos\Rock Paper Scissors game\bin\Debug\net6.0-windows\Rock Paper Scissors game.deps.json
+C:\Users\batma\source\repos\Rock Paper Scissors game\bin\Debug\net6.0-windows\Rock Paper Scissors game.runtimeconfig.json
+C:\Users\batma\source\repos\Rock Paper Scissors game\bin\Debug\net6.0-windows\Rock Paper Scissors game.dll
+C:\Users\batma\source\repos\Rock Paper Scissors game\bin\Debug\net6.0-windows\Rock Paper Scissors game.pdb
+C:\Users\batma\source\repos\Rock Paper Scissors game\obj\Debug\net6.0-windows\Rock Paper Scissors game.csproj.AssemblyReference.cache
+C:\Users\batma\source\repos\Rock Paper Scissors game\obj\Debug\net6.0-windows\Rock_Paper_Scissors_game.Form1.resources
+C:\Users\batma\source\repos\Rock Paper Scissors game\obj\Debug\net6.0-windows\Rock Paper Scissors game.csproj.GenerateResource.cache
+C:\Users\batma\source\repos\Rock Paper Scissors game\obj\Debug\net6.0-windows\Rock Paper Scissors game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batma\source\repos\Rock Paper Scissors game\obj\Debug\net6.0-windows\Rock Paper Scissors game.AssemblyInfoInputs.cache
+C:\Users\batma\source\repos\Rock Paper Scissors game\obj\Debug\net6.0-windows\Rock Paper Scissors game.AssemblyInfo.cs
+C:\Users\batma\source\repos\Rock Paper Scissors game\obj\Debug\net6.0-windows\Rock Paper Scissors game.csproj.CoreCompileInputs.cache
+C:\Users\batma\source\repos\Rock Paper Scissors game\obj\Debug\net6.0-windows\Rock Paper Scissors game.dll
+C:\Users\batma\source\repos\Rock Paper Scissors game\obj\Debug\net6.0-windows\refint\Rock Paper Scissors game.dll
+C:\Users\batma\source\repos\Rock Paper Scissors game\obj\Debug\net6.0-windows\Rock Paper Scissors game.pdb
+C:\Users\batma\source\repos\Rock Paper Scissors game\obj\Debug\net6.0-windows\Rock Paper Scissors game.genruntimeconfig.cache
+C:\Users\batma\source\repos\Rock Paper Scissors game\obj\Debug\net6.0-windows\ref\Rock Paper Scissors game.dll
